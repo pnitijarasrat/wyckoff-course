@@ -1,0 +1,1 @@
+var e={bg:`#ffffff`,up:`#15835a`,upFill:`#15835a`,down:`#cf3a3a`,rule:`#ededf3`,ruleStrong:`#cfcfd9`,text:`#62626f`,key:`#c25e0a`,level2:`#5b6b8c`,mark:`#0b84c6`,hover:`#9a9aa8`,miss:`#c98a00`,upTint:`#e6f4ed`,downTint:`#fbe9e9`,entry:`#17171c`,onFill:`#ffffff`,volOpacity:.3,right:`#15835a`,wrong:`#cf3a3a`},t=e=>e;export{e as n,t};

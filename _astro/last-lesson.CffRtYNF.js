@@ -1,0 +1,1 @@
+var e=`wyckoff-last-lesson`;function t(t){return{get:()=>{if(!t)return null;try{return t.getItem(e)}catch{return null}},set:n=>{if(t)try{t.setItem(e,n)}catch{}}}}export{t as n,e as t};

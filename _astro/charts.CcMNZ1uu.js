@@ -1,0 +1,1 @@
+import{a as e,n as t,o as n,r}from"./chart.B-Ak24J9.js";import{t as i}from"./define.pIhc8iio.js";var a=i(()=>({fig:i=>{let a=n([[9,47,1.6],[5,45,.6],[9,52,1.7],[5,50,.6],[9,57,1.8],[5,55,.6]]),o=t({seed:3,start:40,segments:a.segments});r(i,o,{height:260,annotations:e(o,a.pivots)})}}));export{a as default};
